@@ -1,3 +1,3 @@
 # Dropout
 
-dropout is cool
+dropout is cool, overfitting isn't
